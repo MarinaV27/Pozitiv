@@ -1,4 +1,4 @@
-import 
+
 
 const FriendList = ({ friends: { avatar, name, isOnline } }) => {
   return (
